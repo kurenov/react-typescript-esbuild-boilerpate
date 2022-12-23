@@ -1,2 +1,2 @@
-### WIP: Minimalistic React TypeScript boilerplate project built with ESBuild
+### WIP: Minimalistic boilerplate project for React TypeScript development built with ESBuild
 
